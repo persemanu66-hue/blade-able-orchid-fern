@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "F1: Bimba Racing",
+      "hasCanvas": true,
+      "bodyTextLen": 187,
+      "bodyTextHash": "086de83a7078384bf23d640b364ea8f3f96e5e4964cf282d1ff19f3d242f03c6",
+      "bodyTextPrefix": "PER LA MIA BIMBA F1: BIMBA RACING IL NOSTRO PRIMO ANNO INSIEME 3",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "F1: Bimba Racing",
+      "hasCanvas": true,
+      "bodyTextLen": 187,
+      "bodyTextHash": "086de83a7078384bf23d640b364ea8f3f96e5e4964cf282d1ff19f3d242f03c6",
+      "bodyTextPrefix": "PER LA MIA BIMBA F1: BIMBA RACING IL NOSTRO PRIMO ANNO INSIEME 3",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
